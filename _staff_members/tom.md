@@ -1,5 +1,5 @@
 ---
-name: Tom Wilson
+name: Bathan Bennedy
 position: CTO
 image_path: /uploads/cvphoto.jpg
 twitter: CloudCannonApp
