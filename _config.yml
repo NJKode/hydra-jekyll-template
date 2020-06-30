@@ -44,7 +44,7 @@ defaults:
         content:
           width: 1500
           height: 2500
-      #_hide_content: true
+      _hide_content: true
   -
     scope:
       path: ""
