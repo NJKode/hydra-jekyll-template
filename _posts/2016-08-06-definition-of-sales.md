@@ -6,7 +6,7 @@ categories:
 author_staff_member: james
 ---
 
-A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospector Jones. Buying and selling are understood to be two sides of the same "coin" or transaction. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages.
+A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospector Jones. Buying and selling are understood to be two sides of the same "coin" or transaction. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages. [Nice](https://www.cloudcannon.com){: target="_blank"}
 
 ![Cat](https://source.unsplash.com/random/1500x1146)
 
